@@ -48,3 +48,4 @@ class MyApp extends StatelessWidget {
   }
 }
 // To wrap with widget : ctrl + . or ctrl + shift + r 
+// To add or update dependencies : ctrl + shift + p then touch on pubspec add/update dependencies
